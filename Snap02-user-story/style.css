@@ -1,0 +1,32 @@
+h1 {
+
+}
+
+h2{
+    /*display: inline-block;*/
+}
+
+h3{
+
+}
+
+p{
+    display: inline-block;
+    content: "\a";
+    white-space: pre;
+}
+
+p.header2{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p.indent {
+    display: inline-block;
+    text-indent: 25px;
+    font-size: 15px;
+}
+
+p.userStory{
+    padding-right: 870px;
+}

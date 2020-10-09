@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Snap Challenge 02 User Story</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Persona</h1>
+<br>
+
+<h2>Statistics</h2>
+
+<p class = header2>Name: </p> <p class = indent>Jonah Whalie</p><br>
+<p class = header2>Gender: </p> <p class = indent>Male</p><br>
+<p class = header2>Age: </p> <p class = indent>60</p><br>
+<p class = header2>Profession: </p> <p class = indent>Indigent</p><br>
+<p class = header2>Income: </p> <p class = indent>Disability</p><br>
+
+<h2>Technology:</h2>
+
+<p class="userStory">He has an older iPhone 6 and uses the public library computers</p>
+
+<h2>Attitudes and Behaviors:</h2>
+
+<p class="userStory">He needs access to multiple government provided
+    services for his meds, counseling, and other services
+    to help get himself back in a stable environment. He is really trying to straighten out his life </p>
+
+<h2>Frustrations and Needs:</h2>
+
+<p class="userStory">Having to live on the streets, he has to use his phone to connect with
+    public transportation. He needs to know if a bus is on time and where it is
+    so he can plan his routes to make his appointments.</p>
+
+<h2>Goals:</h2>
+
+<p class="userStory">He wants to take more control of his life and get it back on track.</p>
+
+<h2>User Story:</h2>
+
+<p class="userStory">It's a hard life living on the streets, and I am want to get better and be able to
+    see my family again.</p>
+
+</body>
+
+
+</html>
